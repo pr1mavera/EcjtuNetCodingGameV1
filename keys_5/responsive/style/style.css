@@ -1,0 +1,71 @@
+@media (min-width:1050px) {
+.container{
+    width: 1024px;
+    margin: 0 auto;
+}
+.container li{
+    list-style: none;
+}
+header{
+    width: 1024px;
+    height: 48px;
+    background: #c0c0c0;
+}
+header a{
+    display: block;
+    width: 45px;
+    height: 24px;
+    line-height: 12px;
+    background: #000000;
+    float: left;
+    margin: 12px 20px;
+}
+.content{
+    width: 1024px;
+    height: 500px;
+    padding-top: 2px;
+}
+.content article{
+    width: 800px;
+    height: 500px;
+    float: left;
+    background: #66ccff;
+}
+.content aside{
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin-left: 24px;
+    background: #66ffcc;
+}
+.content aside ul{
+    padding: 0;
+}
+.content aside ul li{
+    width: 200px;
+    height: 24px;
+    padding: 0;
+    margin-top: 2px;
+    background: #c6c6c6;
+}
+.info{
+    margin-top:2px;
+    width: 1024px;
+    height: 350px;
+    background: #cc66ff;
+}
+.info ul{
+    width: 280px;
+    height: 300px;
+    float: left;
+    background: #ff66cc;
+    margin-left: 16px;
+}
+footer{
+    margin-top: 2px;
+    width: 1024px;
+    height: 100px;
+    background: #6f6f6f;
+}
+
+}

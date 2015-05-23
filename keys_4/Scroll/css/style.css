@@ -1,0 +1,5 @@
+*{ margin:0; padding:0;}
+p{ height:1000px;}
+#mainBox{ width:640px; height:480px;  position:relative; overflow:hidden; margin:50px auto;}
+#content{  height:2500px; position:absolute; left:0; top:0; background:url(http://h.hiphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=84e8a533d562853596e0d625a0df4db7/728da9773912b31bafe912e88618367adbb4e16e.jpg) }
+.scrollDiv{ width:10px;  position:absolute; top:0; background:#666; border-radius:10px;}

@@ -1,0 +1,80 @@
+@media (min-width: 1000px) and (max-width: 1050px){
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.container li{
+    list-style: none;
+}
+header{
+    width: 100%;
+    height: 48px;
+    background: #c0c0c0;
+}
+header a{
+    display: block;
+    width: 45px;
+    height: 24px;
+    line-height: 12px;
+    background: #000000;
+    float: left;
+    margin: 12px;
+}
+.content{
+    width: 100%;
+    height: 600px;
+    padding-top: 2px;
+}
+.content article{
+    width: 100%;
+    height: 500px;
+    background: #66ccff;
+}
+.content aside{
+    width: 100%;
+    height: 100px;
+    /*margin-left: 24px;*/
+    background: #66ffcc;
+}
+.content aside ul{
+    width: 660px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0;
+}
+.content aside ul li{
+    width: 60px;
+    height: 60px;
+    float: left;
+    /*padding: 0;*/
+    margin: 20px 11px;
+    border-radius: 50%;
+    background: #c6c6c6;
+}
+.info{
+    margin-top:2px;
+    width: 100%;
+    height: 330px;
+    background: #cc66ff;
+}
+.info ul{
+    width: 240px;
+    height: 300px;
+    float: left;
+    background: #ff66cc;
+    margin-left: 16px;
+
+}
+.info_ul{
+    width: 903px;
+    height: 330px;
+    margin: 0 auto;
+}
+footer{
+    margin-top: 2px;
+    width: 100%;
+    height: 100px;
+    background: #6f6f6f;
+}
+
+}
